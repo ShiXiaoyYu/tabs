@@ -1,6 +1,6 @@
 {
-  "name": "rc-tabs",
-  "version": "7.1.0",
+  "name": "kks-Tab",
+  "version": "1.9.9",
   "description": "tabs ui component for react",
   "keywords": [
     "react",
@@ -16,7 +16,7 @@
   "author": "yiminghe@gmail.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-component/tabs.git"
+    "url": "https://github.com/ShiXiaoyYu/tabs"
   },
   "bugs": {
     "url": "http://github.com/react-component/tabs/issues"
@@ -54,6 +54,7 @@
   "dependencies": {
     "babel-runtime": "6.x",
     "classnames": "2.x",
-    "react-hammerjs": "~0.5.0"
+    "react-hammerjs": "~0.5.0",
+    "rc-tabs": "~5.9.2"
   }
 }
